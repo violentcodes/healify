@@ -1,16 +1,23 @@
 Copyright (c) 2025 
-Saksham Sharma
+Saksham Sharma (@violentcodes)
 All rights reserved.
 
 Healify (the "Software") — including all source code, APK files, assets, UI designs,
 algorithms, models, data, and documentation — is proprietary and fully owned by 
 Saksham Sharma.
 
-Co-creator acknowledgment:
--------------------------
-This project includes contributions and co-creation support from 
-**Ritish Maindoliya**, credited as a co-creator.  
-This credit does not grant ownership, licensing rights, or distribution rights.
+Co-Creator Acknowledgement:
+---------------------------
+This project includes creative contributions from **Ritish Maindoliya**, acknowledged 
+as a co-creator. This credit does not grant ownership, distribution rights, or any 
+form of licensing rights. All intellectual property rights remain exclusively with 
+Saksham Sharma (@violentcodes).
+
+Creator Acknowledgement:
+------------------------
+Healify is an original software project created and developed by 
+**Saksham Sharma (@violentcodes)** with conceptual and collaborative support from 
+**Ritish Maindoliya**.
 
 PERMITTED USE:
 --------------
@@ -23,21 +30,20 @@ You MAY NOT:
 
 1. Copy, reproduce, or redistribute any part of the Software.
 2. Modify, adapt, translate, or create derivative works.
-3. Use the Software in your own applications, services, or products.
-4. Reverse-engineer, decompile, or extract assets, models, or technical structures.
-5. Upload, mirror, or re-host the Software elsewhere.
+3. Use the Software in your own applications, products, or services.
+4. Reverse-engineer, decompile, or extract any assets, logic, or structural components.
+5. Upload, mirror, or re-host the Software on any platform.
 6. Sell, sublicense, rent, or commercially exploit the Software.
 7. Use any part of the Software to train AI models, datasets, or machine-learning systems.
-8. Replicate or reuse UI layouts, architecture, or design components from Healify.
+8. Replicate or reuse any UI layout, architecture, or design patterns belonging to Healify.
 
 NO LICENSE GRANTED:
 -------------------
-You are NOT granted any license (express or implied) to use, copy, distribute, or
-modify the Software. All rights remain strictly reserved by the copyright holder.
+Accessing this repository does not grant any license (express or implied) to use, 
+copy, modify, or distribute the Software. All rights are reserved.
 
 DISCLAIMER:
 -----------
-The Software is provided "as is", without warranty of any kind. The copyright holder
-is not liable for any damages or liability arising from use or misuse of the Software.
-
-Unauthorized use will result in DMCA takedowns or legal enforcement.
+The Software is provided "as is", without warranty of any kind. The copyright 
+holder is not liable for any damages or misuse. Unauthorized use will result in 
+DMCA takedowns or legal action.

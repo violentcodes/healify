@@ -1,37 +1,43 @@
-Copyright (c) 2025 Saksham Sharma(@violentcodes)
+Copyright (c) 2025 
+Saksham Sharma
 All rights reserved.
 
-Healify (the "Software") — including its source code, APK, assets, UI designs, 
-algorithms, models, documentation, and all associated files — is the exclusive 
-property of the copyright holder.
+Healify (the "Software") — including all source code, APK files, assets, UI designs,
+algorithms, models, data, and documentation — is proprietary and fully owned by 
+Saksham Sharma.
+
+Co-creator acknowledgment:
+-------------------------
+This project includes contributions and co-creation support from 
+**Ritish Maindoliya**, credited as a co-creator.  
+This credit does not grant ownership, licensing rights, or distribution rights.
 
 PERMITTED USE:
 --------------
-You may view the source code for personal inspection only.
+You may view the publicly available source code for personal inspection only.  
+No other rights are granted.
 
-PROHIBITED ACTIONS (WITHOUT WRITTEN PERMISSION):
-------------------------------------------------
+PROHIBITED ACTIONS (WITHOUT EXPLICIT PERMISSION):
+-------------------------------------------------
 You MAY NOT:
 
 1. Copy, reproduce, or redistribute any part of the Software.
 2. Modify, adapt, translate, or create derivative works.
-3. Use the Software in your own projects, apps, or products.
-4. Reverse engineer, decompile, or extract logic, models, or assets.
-5. Upload, mirror, or re-host the Software anywhere else.
-6. Sell, sublicense, rent, or commercially exploit any part of the Software.
-7. Use any portion of the Software for training AI models, datasets, or 
-   machine-learning systems.
-8. Integrate or reuse any script, UI component, or architecture in another project.
+3. Use the Software in your own applications, services, or products.
+4. Reverse-engineer, decompile, or extract assets, models, or technical structures.
+5. Upload, mirror, or re-host the Software elsewhere.
+6. Sell, sublicense, rent, or commercially exploit the Software.
+7. Use any part of the Software to train AI models, datasets, or machine-learning systems.
+8. Replicate or reuse UI layouts, architecture, or design components from Healify.
 
 NO LICENSE GRANTED:
 -------------------
-By viewing this repository, you are NOT granted any license to use, copy, modify, 
-or distribute the Software. All rights are strictly reserved.
+You are NOT granted any license (express or implied) to use, copy, distribute, or
+modify the Software. All rights remain strictly reserved by the copyright holder.
 
 DISCLAIMER:
 -----------
-The Software is provided "as is", without warranty of any kind. The copyright 
-holder is not liable for any damages arising from use or misuse of the Software.
+The Software is provided "as is", without warranty of any kind. The copyright holder
+is not liable for any damages or liability arising from use or misuse of the Software.
 
-Any unauthorized use constitutes a violation of copyright and may result in 
-DMCA takedowns or legal action.
+Unauthorized use will result in DMCA takedowns or legal enforcement.
